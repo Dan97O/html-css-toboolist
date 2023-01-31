@@ -36,7 +36,7 @@ main{
    
 }
 
-#task{
+.task{
     padding: 5px;
     background-color: #47adf1;
     border-radius: 10px;
@@ -54,5 +54,28 @@ main{
     border-color: gray ;
     color: gray;
     margin-top: 20px;
+}
 
+.link{
+    margin-top: 2px;
+    height: auto;
+}
+
+.main {
+    padding-left: 50px;
+    padding-top: 35px;
+    font-size: 30px;
+}
+
+.content {
+    font-size: 20px;
+}
+
+.task2{
+    padding: 5px;
+    background-color: #47adf1;
+    border-radius: 10px;
+    border-color: #47adf1;
+    color: white;
+        
 }
