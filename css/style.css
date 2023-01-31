@@ -5,8 +5,8 @@
 
 body{
     background-color: #f6f8f9;
-
 }
+/* color page */
 
 .container-img{
     display: inline-block;
@@ -14,13 +14,13 @@ body{
     padding-left: 10px;
     background-color: white;
     width: 100%;
-
 }
 
 .title{
     display: inline-block;
     color: #041931;
-    vertical-align: 50%;
+    vertical-align: 58%;
+    font-size: 20px;
 }
 
 main{
@@ -33,7 +33,7 @@ main{
     margin: auto;
     height: 60px;
     background-color: white;
-   
+    border-radius: 10px;
 }
 
 .task{
@@ -44,7 +44,6 @@ main{
     color: white;
     margin-top: 20px;
     margin-left: 50px;
-    
 }
 
 #section{
@@ -110,10 +109,25 @@ main{
     border-color: #d863a1;
     color: white;  
 }
+
 .task7 {
     padding: 5px;
     background-color: #b0c926;
     border-radius: 10px;
     border-color: #b0c926;
     color: white;  
+}
+
+.task8{
+    padding: 5px;
+    background-color: #47adf1;
+    border-radius: 10px;
+    border-color: #47adf1;
+    color: white;  
+    margin-bottom: 40px;
+}
+
+.app-footer {
+    text-align: center;
+    padding-top: 25px;
 }
