@@ -76,6 +76,29 @@ main{
     background-color: #47adf1;
     border-radius: 10px;
     border-color: #47adf1;
-    color: white;
-        
+    color: white;  
+}
+
+.task3{
+    padding: 5px;
+    background-color: #9c72e4;
+    border-radius: 10px;
+    border-color: #9c72e4;
+    color: white;  
+}
+
+.task4{
+    padding: 5px;
+    background-color: #64c0a9;
+    border-radius: 10px;
+    border-color: #64c0a9;
+    color: white;  
+}
+
+.task5{
+    padding: 5px;
+    background-color: #f29e33;
+    border-radius: 10px;
+    border-color: #f29e33;
+    color: white;  
 }
