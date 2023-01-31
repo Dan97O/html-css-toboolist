@@ -102,3 +102,18 @@ main{
     border-color: #f29e33;
     color: white;  
 }
+
+.task6{
+    padding: 5px;
+    background-color: #d863a1;
+    border-radius: 10px;
+    border-color: #d863a1;
+    color: white;  
+}
+.task7 {
+    padding: 5px;
+    background-color: #b0c926;
+    border-radius: 10px;
+    border-color: #b0c926;
+    color: white;  
+}
